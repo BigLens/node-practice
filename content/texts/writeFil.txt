@@ -1,0 +1,2 @@
+the file reads: Hello, this is the first texts
+! Hello, this is the second texts

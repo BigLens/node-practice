@@ -1,0 +1,2 @@
+the content in both file is: Hello, this is the first texts
+! Hello, this is the second texts

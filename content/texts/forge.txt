@@ -1,0 +1,2 @@
+contents in file: Hello, this is the first texts
+! Hello, this is the second texts
